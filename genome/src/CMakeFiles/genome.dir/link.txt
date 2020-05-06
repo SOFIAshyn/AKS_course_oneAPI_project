@@ -1,0 +1,1 @@
+/opt/intel/inteloneapi/compiler/latest/linux/bin/dpcpp  -pthread -g  -rdynamic CMakeFiles/genome.dir/main.cpp.o CMakeFiles/genome.dir/__/file_readers/read_fasta.cpp.o CMakeFiles/genome.dir/__/file_readers/read_csv.cpp.o  -o genome -lOpenCL -lsycl 
